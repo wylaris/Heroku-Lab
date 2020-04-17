@@ -30,7 +30,7 @@ class App extends Component {
             <img src={image} className="App-logo" alt="logo" />
           </a>
           <p>
-            Devops
+            Devlops
           </p>
           <a
             href="https://www.amazon.com/Project-Leadership-Communication-Samuel-Malachowsky/dp/1732378908/ref=sr_1_1?keywords=malachowsky+book&qid=1580486292&sr=8-1"
